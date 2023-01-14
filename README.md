@@ -3,6 +3,8 @@ In this tutorial we will see how to run OpenGL in Flutter on Android.
 
 We will run a simple gaussian blur filter and control the blur radius using a slider in the app.
 
+[YouTube video](https://www.youtube.com/watch?v=8PjeaY2d8Ok)
+
 # Architecture
 There are 2 projects in this demo
 1. filter_plugin - This is where we will write our OpenGL filter, we write on as a separate Flutter Plugin.
